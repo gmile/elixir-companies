@@ -275,6 +275,12 @@ Communication Service for the Deaf:
   url: https://www.csd.org/
   github: https://github.com/C-S-D
   description: "Communication Service for the Deaf's [Vineya](https://govineya.com) ASL (American Sign Language) interpreting platform allows interpreters to work for any agency across the United States. The [interpreter website](https://interpreter.govineya.com) for Vineya uses Elixir, Phoenix and RabbitMQ."
+  
+Contractbook:
+  industry: Legal Services
+  url: https://contractbook.co
+  github: https://github.com/contractbook
+  description: "Efficient Contract Management for Modern Businesses. Create, sign and store all your contracts in one safe place."
 
 Corvus Insurance:
   industry: Insurance
